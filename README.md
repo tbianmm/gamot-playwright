@@ -1,0 +1,2 @@
+# gamot-playwright
+for testing
